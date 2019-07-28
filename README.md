@@ -7,6 +7,7 @@ There are some points to consdier:
 * Linking against libhugetlbfs.
 * Setup docker containers to have shared-memory communication.
 * Service registery point with RESTful API.
+* Run on Ubuntu 18.04.
 
 Configuration for:
 * Hugepage size.
