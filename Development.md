@@ -13,3 +13,6 @@ Configuration for:
 * Hugepage size.
 
 
+To read:
+* How to enable huge page support in a Dockerfile
+  * https://superuser.com/questions/1309438/how-to-enable-huge-page-support-in-a-dockerfile
